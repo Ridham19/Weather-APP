@@ -58,17 +58,11 @@ The main file that initializes the PyQt5 application and handles fetching and di
 - **`display_error(message)`**: Displays error messages.
 
 ### Example
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](https://raw.githubusercontent.com/Ridham19/Weather-APP/refs/heads/main/Screenshot%202024-10-16%20223455.png)
+![Weather App Screenshot](https://github.com/Ridham19/Weather-APP/blob/main/Screenshot%202024-10-16%20223623.png)
+![Weather App Screenshot](https://github.com/Ridham19/Weather-APP/blob/main/Screenshot%202024-10-16%20223652.png)
 
-## Contributing
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-foo`).
-3. Commit your changes (`git commit -am 'Add some foo'`).
-4. Push to the branch (`git push origin feature-foo`).
-5. Create a new Pull Request.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - [OpenWeather](https://openweathermap.org/) for providing the weather data API.
